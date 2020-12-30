@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Biometric Sample</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="unauthenticated">Unauthenticated</string>
+    <string name="authenticated">Authenticated</string>
+    <string name="failed">Failed</string>
+    <string name="cancel">Cancel</string>
+    <string name="cannotDoBioAuth">Sorry, Biometric Authentication is not available</string>
+</resources>
